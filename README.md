@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Rodrigo Auzier 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Rodrigo+Auzier+%F0%9F%91%8B;Software+Engineer+%C2%B7+Full-Stack+Developer)
 
 **Software Engineer · Full-Stack Developer**
 
