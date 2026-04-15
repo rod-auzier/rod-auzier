@@ -31,8 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rod-auzier&show_icons=true&theme=tokyonight&count_private=true"/>
