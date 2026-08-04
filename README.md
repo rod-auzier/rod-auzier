@@ -28,12 +28,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rod-auzier&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-auzier&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</div>
